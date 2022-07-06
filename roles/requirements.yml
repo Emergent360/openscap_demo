@@ -1,0 +1,7 @@
+---
+roles:
+- src: https://github.com/Emergent360/install_openscap.git
+- src: https://github.com/Emergent360/launch_oscap_scan.git
+- src: https://github.com/Emergent360/ansible-role-rhel8-stig.git
+- src: https://github.com/Emergent360/ansible-role-rhel8-cis.git
+- src: https://github.com/Emergent360/ansible-role-rhel8-ospp.git
