@@ -1,3 +1,4 @@
 ---
 collections:
 - name: servicenow.servicenow
+- name: community.general
